@@ -1,21 +1,31 @@
-Code,Industry Title,Count *
-11,"Agriculture, Forestry, Fishing and Hunting","433,883"
+Codes,Titles,Number of US Businesses
 21,Mining,"34,461"
-22,Utilities,"34,839"
-23,Construction,"1,435,430"
-31-33,Manufacturing,"652,353"
-42,Wholesale Trade,"744,139"
-44-45,Retail Trade,"1,744,920"
-48-49,Transportation and Warehousing,"508,378"
-51,Information,"333,231"
-52,Finance and Insurance,"734,720"
-53,Real Estate Rental and Leasing,"788,288"
-54,"Professional, Scientific, and Technical Services","2,238,785"
-55,Management of Companies and Enterprises,"60,068"
-56,Administrative and Support and Waste Management and Remediation Services,"2,593,912"
-61,Educational Services,"407,541"
-62,Health Care and Social Assistance,"1,456,809"
-71,"Arts, Entertainment, and Recreation","310,018"
-72,Accommodation and Food Services,"815,095"
-81,Other Services (except Public Administration),"1,775,590"
-92,Public Administration,"290,120"
+211111,Crude Petroleum and Natural Gas Extraction,"6,178"
+211112,Natural Gas Liquid Extraction,556
+212111,Bituminous Coal and Lignite Surface Mining,579
+212112,Bituminous Coal Underground Mining,160
+212113,Anthracite Mining,64
+212210,Iron Ore Mining,101
+212221,Gold Ore Mining,406
+212222,Silver Ore Mining,49
+212231,Lead Ore and Zinc Ore Mining,34
+212234,Copper Ore and Nickel Ore Mining,129
+212291,Uranium-Radium-Vanadium Ore Mining,59
+212299,All Other Metal Ore Mining,64
+212311,Dimension Stone Mining and Quarrying,619
+212312,Crushed and Broken Limestone Mining and Quarrying,903
+212313,Crushed and Broken Granite Mining and Quarrying,204
+212319,Other Crushed and Broken Stone Mining and Quarrying,467
+212321,Construction Sand and Gravel Mining,"2,502"
+212322,Industrial Sand Mining,227
+212324,Kaolin and Ball Clay Mining,63
+212325,Clay and Ceramic and Refractory Minerals Mining,143
+212391,"Potash, Soda, and Borate Mineral Mining",48
+212392,Phosphate Rock Mining,21
+212393,Other Chemical and Fertilizer Mineral Mining,131
+212399,All Other Nonmetallic Mineral Mining,334
+213111,Drilling Oil and Gas Wells,"2,808"
+213112,Support Activities for Oil and Gas Operations,"16,350"
+213113,Support Activities for Coal Mining,611
+213114,Support Activities for Metal Mining,430
+213115,Support Activities for Nonmetallic Minerals (except Fuels) Mining,221

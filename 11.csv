@@ -1,21 +1,66 @@
-Code,Industry Title,Count *
+Codes,Titles,Number of US Businesses
 11,"Agriculture, Forestry, Fishing and Hunting","433,883"
-21,Mining,"34,461"
-22,Utilities,"34,839"
-23,Construction,"1,435,430"
-31-33,Manufacturing,"652,353"
-42,Wholesale Trade,"744,139"
-44-45,Retail Trade,"1,744,920"
-48-49,Transportation and Warehousing,"508,378"
-51,Information,"333,231"
-52,Finance and Insurance,"734,720"
-53,Real Estate Rental and Leasing,"788,288"
-54,"Professional, Scientific, and Technical Services","2,238,785"
-55,Management of Companies and Enterprises,"60,068"
-56,Administrative and Support and Waste Management and Remediation Services,"2,593,912"
-61,Educational Services,"407,541"
-62,Health Care and Social Assistance,"1,456,809"
-71,"Arts, Entertainment, and Recreation","310,018"
-72,Accommodation and Food Services,"815,095"
-81,Other Services (except Public Administration),"1,775,590"
-92,Public Administration,"290,120"
+111110,Soybean Farming,"6,855"
+111120,Oilseed (except Soybean) Farming,274
+111130,Dry Pea and Bean Farming,"5,835"
+111140,Wheat Farming,"9,685"
+111150,Corn Farming,"38,527"
+111160,Rice Farming,"1,294"
+111191,Oilseed and Grain Combination Farming,0
+111199,All Other Grain Farming,"23,477"
+111211,Potato Farming,766
+111219,Other Vegetable (except Potato) and Melon Farming,"5,035"
+111310,Orange Groves,272
+111320,Citrus (except Orange) Groves,876
+111331,Apple Orchards,"1,540"
+111332,Grape Vineyards,"3,256"
+111333,Strawberry Farming,352
+111334,Berry (except Strawberry) Farming,"1,223"
+111335,Tree Nut Farming,"1,881"
+111336,Fruit and Tree Nut Combination Farming,265
+111339,Other Noncitrus Fruit Farming,"3,844"
+111411,Mushroom Production,287
+111419,Other Food Crops Grown Under Cover,686
+111421,Nursery and Tree Production,"7,171"
+111422,Floriculture Production,"5,421"
+111910,Tobacco Farming,"2,940"
+111920,Cotton Farming,"4,680"
+111930,Sugarcane Farming,213
+111940,Hay Farming,"3,764"
+111991,Sugar Beet Farming,633
+111992,Peanut Farming,501
+111998,All Other Miscellaneous Crop Farming,"131,901"
+112111,Beef Cattle Ranching and Farming,"23,119"
+112112,Cattle Feedlots,"16,503"
+112120,Dairy Cattle and Milk Production,"26,143"
+112130,Dual-Purpose Cattle Ranching and Farming,0
+112210,Hog and Pig Farming,"5,100"
+112310,Chicken Egg Production,607
+112320,Broilers and Other Meat Type Chicken Production,"1,149"
+112330,Turkey Production,641
+112340,Poultry Hatcheries,808
+112390,Other Poultry Production,980
+112410,Sheep Farming,"1,124"
+112420,Goat Farming,579
+112511,Finfish Farming and Fish Hatcheries,"1,580"
+112512,Shellfish Farming,95
+112519,Other Aquaculture,378
+112910,Apiculture,"1,138"
+112920,Horses and Other Equine Production,"4,859"
+112930,Fur-Bearing Animal and Rabbit Production,408
+112990,All Other Animal Production,"30,213"
+113110,Timber Tract Operations,"2,701"
+113210,Forest Nurseries and Gathering of Forest Products,"1,016"
+113310,Logging,"9,005"
+114111,Finfish Fishing,632
+114112,Shellfish Fishing,590
+114119,Other Marine Fishing,212
+114210,Hunting and Trapping,"2,311"
+115111,Cotton Ginning,742
+115112,"Soil Preparation, Planting, and Cultivating","4,979"
+115113,"Crop Harvesting, Primarily by Machine","2,256"
+115114,Postharvest Crop Activities (except Cotton Ginning),"2,458"
+115115,Farm Labor Contractors and Crew Leaders,604
+115116,Farm Management Services,"3,373"
+115210,Support Activities for Animal Production,"18,352"
+115310,Support Activities for Forestry,"5,774"

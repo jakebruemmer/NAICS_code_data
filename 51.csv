@@ -1,21 +1,34 @@
-Code,Industry Title,Count *
-11,"Agriculture, Forestry, Fishing and Hunting","433,883"
-21,Mining,"34,461"
-22,Utilities,"34,839"
-23,Construction,"1,435,430"
-31-33,Manufacturing,"652,353"
-42,Wholesale Trade,"744,139"
-44-45,Retail Trade,"1,744,920"
-48-49,Transportation and Warehousing,"508,378"
+Codes,Titles,Number of US Businesses
 51,Information,"333,231"
-52,Finance and Insurance,"734,720"
-53,Real Estate Rental and Leasing,"788,288"
-54,"Professional, Scientific, and Technical Services","2,238,785"
-55,Management of Companies and Enterprises,"60,068"
-56,Administrative and Support and Waste Management and Remediation Services,"2,593,912"
-61,Educational Services,"407,541"
-62,Health Care and Social Assistance,"1,456,809"
-71,"Arts, Entertainment, and Recreation","310,018"
-72,Accommodation and Food Services,"815,095"
-81,Other Services (except Public Administration),"1,775,590"
-92,Public Administration,"290,120"
+511110,Newspaper Publishers,"12,268"
+511120,Periodical Publishers,"6,439"
+511130,Book Publishers,"6,499"
+511140,Directory and Mailing List Publishers,729
+511191,Greeting Card Publishers,446
+511199,All Other Publishers,"20,725"
+511210,Software Publishers,"23,307"
+512110,Motion Picture and Video Production,"29,529"
+512120,Motion Picture and Video Distribution,"24,051"
+512131,Motion Picture Theaters (except Drive-Ins),"5,906"
+512132,Drive-In Motion Picture Theaters,184
+512191,Teleproduction and Other Postproduction Services,"1,527"
+512199,Other Motion Picture and Video Industries,"6,229"
+512210,Record Production,"9,617"
+512220,Integrated Record Production/Distribution,0
+512230,Music Publishers,800
+512240,Sound Recording Studios,"3,727"
+512290,Other Sound Recording Industries,439
+515111,Radio Networks,"11,286"
+515112,Radio Stations,"2,641"
+515120,Television Broadcasting,"4,135"
+515210,Cable and Other Subscription Programming,"7,497"
+517110,Wired Telecommunications Carriers,"15,680"
+517210,Wireless Telecommunications Carriers (except Satellite),"22,388"
+517410,Satellite Telecommunications,218
+517911,Telecommunications Resellers,"15,382"
+517919,All Other Telecommunications,"46,434"
+518210,"Data Processing, Hosting, and Related Services","20,211"
+519110,News Syndicates,"1,090"
+519120,Libraries and Archives,"26,837"
+519130,Internet Publishing and Broadcasting and Web Search Portals,964
+519190,All Other Information Services,"6,046"

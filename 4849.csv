@@ -1,21 +1,59 @@
-Code,Industry Title,Count *
-11,"Agriculture, Forestry, Fishing and Hunting","433,883"
-21,Mining,"34,461"
-22,Utilities,"34,839"
-23,Construction,"1,435,430"
-31-33,Manufacturing,"652,353"
-42,Wholesale Trade,"744,139"
-44-45,Retail Trade,"1,744,920"
+Codes,Titles,Number of US Businesses
 48-49,Transportation and Warehousing,"508,378"
-51,Information,"333,231"
-52,Finance and Insurance,"734,720"
-53,Real Estate Rental and Leasing,"788,288"
-54,"Professional, Scientific, and Technical Services","2,238,785"
-55,Management of Companies and Enterprises,"60,068"
-56,Administrative and Support and Waste Management and Remediation Services,"2,593,912"
-61,Educational Services,"407,541"
-62,Health Care and Social Assistance,"1,456,809"
-71,"Arts, Entertainment, and Recreation","310,018"
-72,Accommodation and Food Services,"815,095"
-81,Other Services (except Public Administration),"1,775,590"
-92,Public Administration,"290,120"
+481111,Scheduled Passenger Air Transportation,"1,748"
+481112,Scheduled Freight Air Transportation,594
+481211,Nonscheduled Chartered Passenger Air Transportation,233
+481212,Nonscheduled Chartered Freight Air Transportation,105
+481219,Other Nonscheduled Air Transportation,"2,461"
+482111,Line-Haul Railroads,"2,322"
+482112,Short Line Railroads,33
+483111,Deep Sea Freight Transportation,518
+483112,Deep Sea Passenger Transportation,221
+483113,Coastal and Great Lakes Freight Transportation,400
+483114,Coastal and Great Lakes Passenger Transportation,0
+483211,Inland Water Freight Transportation,815
+483212,Inland Water Passenger Transportation,334
+484110,"General Freight Trucking, Local","140,307"
+484121,"General Freight Trucking, Long-Distance, Truckload","38,671"
+484122,"General Freight Trucking, Long-Distance, Less Than Truckload",399
+484210,Used Household and Office Goods Moving,"6,535"
+484220,"Specialized Freight (except Used Goods) Trucking, Local","10,461"
+484230,"Specialized Freight (except Used Goods) Trucking, Long-Distance","4,319"
+485111,Mixed Mode Transit Systems,"4,368"
+485112,Commuter Rail Systems,204
+485113,Bus and Other Motor Vehicle Transit Systems,"1,095"
+485119,Other Urban Transit Systems,82
+485210,Interurban and Rural Bus Transportation,"1,137"
+485310,Taxi Service,"10,472"
+485320,Limousine Service,"14,341"
+485410,School and Employee Bus Transportation,"2,500"
+485510,Charter Bus Industry,"2,270"
+485991,Special Needs Transportation,0
+485999,All Other Transit and Ground Passenger Transportation,"6,283"
+486110,Pipeline Transportation of Crude Oil,596
+486210,Pipeline Transportation of Natural Gas,"1,917"
+486910,Pipeline Transportation of Refined Petroleum Products,452
+486990,All Other Pipeline Transportation,251
+487110,"Scenic and Sightseeing Transportation, Land",468
+487210,"Scenic and Sightseeing Transportation, Water",594
+487990,"Scenic and Sightseeing Transportation, Other",355
+488111,Air Traffic Control,"1,188"
+488119,Other Airport Operations,"12,099"
+488190,Other Support Activities for Air Transportation,"3,166"
+488210,Support Activities for Rail Transportation,"12,036"
+488310,Port and Harbor Operations,247
+488320,Marine Cargo Handling,"1,030"
+488330,Navigational Services to Shipping,"1,796"
+488390,Other Support Activities for Water Transportation,"1,233"
+488410,Motor Vehicle Towing,"20,904"
+488490,Other Support Activities for Road Transportation,"6,364"
+488510,Freight Transportation Arrangement,"31,297"
+488991,Packing and Crating,"1,518"
+488999,All Other Support Activities for Transportation,"81,698"
+491110,Postal Service,"23,513"
+492110,Couriers and Express Delivery Services,"6,842"
+492210,Local Messengers and Local Delivery,"6,528"
+493110,General Warehousing and Storage,"24,944"
+493120,Refrigerated Warehousing and Storage,"1,414"
+493130,Farm Product Warehousing and Storage,"1,187"
+493190,Other Warehousing and Storage,"11,513"

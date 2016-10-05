@@ -29,11 +29,11 @@ CSV.open("top_level_codes.csv", "w") do |f|
   end
 end
 
-puts drilldown_urls
-
 drilldown_urls.each do |url|
   f_name = "#{url.split("/").last.split("=").last}.csv"
   CSV.open(f_name, "w") do |f|
+    page = Nokogiri::HTML(Net::HTTP.get(URI(url)))
+    starting_table = page.css("table")
     starting_table.children.each do |tr|
       # Take care of the header row
       if tr.css("a").empty? && !tr.css("th").empty?
